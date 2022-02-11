@@ -7,7 +7,7 @@ import re # regex library
 import argparse # this library allows us to give arguments in the form of `python3 <script> --flags arguments`
 
 # You need two files and run the script in the following way
-# python3 HM.py --mapfile <mapping_file> --infile <collection_of_docs> --outfile <outfile>
+# python3 add_tags_by_numbers.py --mapfile <mapping_file> --infile <collection_of_docs> --outfile <outfile>
 # where
 
 # the mapping file format
